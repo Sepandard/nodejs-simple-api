@@ -12,7 +12,7 @@ require("./config/db");
 
 const auth = require("./routes/auth.routes");
 const product = require("./routes/product.routes");
-const category = require("./routes/product.routes");
+const category = require("./routes/category.routes");
 const user = require("./routes/user.routes");
 
 // init application
